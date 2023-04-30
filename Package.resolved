@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "fontservice",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SeniorDeveloper-Guroba/FontService",
+      "state" : {
+        "branch" : "master",
+        "revision" : "87ff86e924a1933a03f0e70b3a5519216da04392"
+      }
+    }
+  ],
+  "version" : 2
+}
